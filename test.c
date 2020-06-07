@@ -1,3 +1,8 @@
+/*******************************
+ * tester.c
+ * author: Milehi
+ * date: 6/6/2020
+ *******************************/
 #include <stdio.h>
 
 int foo(int count, char *strings[])
