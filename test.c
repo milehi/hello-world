@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-void foo(int count)
+int foo(int count, char *strings[])
 {
    printf("%d arguments passed in", count);
+   return 0;
 }
 
 int main(int argc, char *argv[])
