@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void foo()
+void foo(cvhar *strings[])
 {
 }
 
