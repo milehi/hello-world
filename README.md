@@ -6,4 +6,7 @@ This is my test version.
 
 5/19/2017
 
-Added more edits!
+!!!More edits.
+
+Change Log:
+11/29/2020 - Added Change log section
