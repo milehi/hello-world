@@ -5,6 +5,7 @@
  * modified: 10/3/2021
  *******************************/
 #include <stdio.h>
+#include <string.h>
 
 int foo(int count, char *strings[])
 {
